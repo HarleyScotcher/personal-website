@@ -10,7 +10,6 @@
    Base styles: opinionated defaults
    ========================================================================== */
 @import url(uno.css);
-@import url(monokai.css);
 
 html {
     color: #222;
@@ -355,7 +354,6 @@ pre.highlight code,
 }
 /* Jekyll styles */
 @import url(uno.css);
-@import url(monokai.css);
 
 /* Modifications */
 
