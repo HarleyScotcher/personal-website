@@ -96,6 +96,21 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+.sl-top {
+        top: 0;
+        /*padding-top: 2%;*/
+}
+
+ .sl-navbar {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+    }
+
+.sl-right {
+        float: right!important
+    }
 
 .panel-title {
     margin: 0 0 5px 0;
